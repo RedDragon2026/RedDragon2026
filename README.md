@@ -62,6 +62,17 @@ My goal is to leverage my Bachelor’s degree in Cybersecurity and Information A
 - Detection Lab
 - SOC Automation Project
 
+
+## Experience
+
+### AI Training & LLM Evaluation | Handshake AI
+**Contract | Dec 2025 – May 2026**
+
+- **LLM Evaluation & Code Verification (Feb 2026 – May 2026):** Reviewed LLM responses to programming questions, ran accuracy checks, and validated outputs with appropriate tools. Assessed whether explanations were technically correct and aligned with best practices, improving the reliability of AI-generated coding assistance.
+- **Multimodal AI Training (Dec 2025 – May 2026):** Contributed to refining multimodal datasets spanning audio, visual, and text. Maintained a baseline quality score and collaborated with teams to improve cross-format model accuracy.
+
+**Skills:** Prompt Engineering · AI Evaluation · Code Review · Data Quality · Python
+
 <!--
 **RedDragon2026/RedDragon2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
