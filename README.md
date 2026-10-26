@@ -10,7 +10,6 @@ I am a recent Cybersecurity graduate from Western Governors University with hand
 My goal is to leverage my Bachelor’s degree in Cybersecurity and Information Assurance, hands-on IT infrastructure experience, and security certifications to help organizations strengthen their security posture, detect and respond to threats, and protect critical systems in a cloud security, cybersecurity, or Security Operations Center (SOC) role.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -22,7 +21,7 @@ My goal is to leverage my Bachelor’s degree in Cybersecurity and Information A
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -45,7 +44,7 @@ My goal is to leverage my Bachelor’s degree in Cybersecurity and Information A
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-PenTest%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
