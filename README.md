@@ -58,8 +58,9 @@ My goal is to leverage my Bachelor’s degree in Cybersecurity and Information A
 </div>
 
 ## Projects
+- Microsoft Cloud Admin & Security Lab Projects
 - Detection Lab
-- SOC Automation Project## Hi there 👋
+- SOC Automation Project
 
 <!--
 **RedDragon2026/RedDragon2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
