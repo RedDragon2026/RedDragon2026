@@ -1,5 +1,5 @@
 # Hello, I'm Francisco
-<a href="https://www.linkedin.com/in/padilla-francisco8569/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtP6qD%2BuiRRqEBRFarYkZLg%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/padilla-francisco8569/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtP6qD%2BuiRRqEBRFarYkZLg%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?]https://www.linkedin.com/in/padilla-francisco8569/&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a recent Cybersecurity graduate from Western Governors University with hands-on experience in IT infrastructure, cloud security, and technical support, dedicated to solving complex problems and helping organizations improve their technology and security operations.
